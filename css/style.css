@@ -1,0 +1,6 @@
+/*selectors and rules
+selectors ID things on a page, rules say what to do with them*/
+
+body {
+    background-color:blue;
+}
