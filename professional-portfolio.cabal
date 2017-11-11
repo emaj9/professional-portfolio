@@ -1,8 +1,8 @@
-name:                1st-try-git
+name:                professional-portfolio
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/1st-try-git#readme
+homepage:            https://github.com/fmaj9b5/professional-portfolio#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Author name here
@@ -13,7 +13,7 @@ build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
 
-executable 1st-try-git-exe
+executable professional-portfolio-exe
   hs-source-dirs:      app
   main-is:             Main.hs
   ghc-options:         -threaded -rtsopts -with-rtsopts=-N
@@ -25,4 +25,4 @@ executable 1st-try-git-exe
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/1st-try-git
+  location: https://github.com/fmaj9b5/professional-portfolio

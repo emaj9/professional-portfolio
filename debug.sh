@@ -2,5 +2,5 @@
 
 set -e
 
-stack exec 1st-try-git-exe rebuild
+stack exec professional-portfolio-exe rebuild
 (cd _site ; python -m http.server 8000)
