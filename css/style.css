@@ -1,6 +1,146 @@
 /*selectors and rules
 selectors ID things on a page, rules say what to do with them*/
 
+h1, h2, h3, h4, h5, h6 {
+    margin: 0.5em 0.5em;
+}
+
+div#footer {
+    font-size: 75%;
+    border-top: 1px solid black;
+
+}
+
+div#footer > div {
+    max-width: 8in;
+    margin: auto;
+    text-align: right;
+    font-style: italic;
+}
+
 body {
-    background-color:blue;
+    background-color:#fff;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    text-align: justify;
+}
+
+h1#title {
+    text-align: center;
+}
+
+h2#page-title {
+    text-align: center;
+}
+
+div#main-content {
+    max-width: 7in;
+    margin: auto;
+    padding: 0.5em 0.8em;
+}
+
+div.btn-nav a {
+    text-align: center;
+    padding: 0.75em 1.208em;
+    background-color:#d8d0f2;
+    border-left: 0.5em solid #dc30e5;
+    box-shadow: 2px 2px #333;
+    margin: 0.2em 1em;
+    transition: box-shadow 0.1s linear;
+    color: black;
+    text-decoration: none;
+}
+
+div.btn-nav a:visited {
+    color: black;
+}
+
+div.btn-nav a:active {
+    background-color:#ffffdf;
+    box-shadow: none;
+}
+
+div.btn-nav {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+}
+.pc-list a{
+    text-align: center;
+    padding: 0.75em 1.208em;
+    background-color:#c2d2ed;
+    border-left: 0.5em solid #3872d1;
+    box-shadow: 2px 2px #333;
+    margin: 0.2em 1em;
+    transition: box-shadow 0.1s linear;
+    color: black;
+    text-decoration: none;
+}
+
+.pc-list li{
+    margin: 2em 0em;
+}
+
+.pc-list ul{
+    font-size: 14px;
+    text-align: center;
+    margin: 0 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.subjects-list a{
+    text-align: center;
+    padding: 0.75em 1.208em;
+    background-color:#c2d2ed;
+    border-left: 0.5em solid #3872d1;
+    box-shadow: 2px 2px #333;
+    margin: 0.2em 1em;
+    transition: box-shadow 0.1s linear;
+    color: black;
+    text-decoration: none;
+}
+
+.subjects-list li{
+    margin: 2em 0em;
+}
+
+.subjects-list ul{
+    font-size: 14px;
+    text-align: center;
+    margin: 0 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.r-float, .l-float {
+    max-width: 50%;
+}
+
+.clearfix:after {
+    content: " ";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.r-float {
+    float: right;
+    margin-left: 1em;
+}
+
+.l-float {
+    float: left;
+    margin-right: 1em;
+}
+
+iframe.lp {
+    width: 100%;
+    min-height: 90vh;
 }
