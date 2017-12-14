@@ -5,5 +5,5 @@ description: Canadian history
 tags: History
 ---
 
-<iframe class="lp" src="lessons/pdf/jacques-cartier-lp.pdf"></iframe>
+<iframe class="lp" src="/lessons/pdf/jacques-cartier-lp.pdf"></iframe>
 
