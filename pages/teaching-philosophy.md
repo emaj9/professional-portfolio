@@ -1,34 +1,30 @@
 ---
 title: Teaching Philosophy
 ---
-Society today is more complex than it has ever been. Technology and consumer
-capitialism has made our current world extremly complex and confusing,
-espeically for young people coming of age. The reason I teach is to help young
-people decode the world around them and find their place in society.
+I teach for 3 main reasons: I love to be around other people, I love to learn,
+and teaching gets me connecting to my community, helping people on the
+front lines.
 
-Even I myself can feel confused and overwhlemed in the world we live in today.
-It's not easy to internalize the complexities of our society, as the world we
-live in today is the product of a much larger process than ourselves. If
-history has taught me anything, it is that our lives and the change we can
-inact in our life time is only one small part of a much larger story that has
-been going on well before I was born. I believe that the relatively recent
-explosion in the complexity and capabilities of technology have made our
-current time especially complicated to understand. All around us, proccesses
-that have a long history are deeply interconnected in our daily lives.
+Outside of loving to be around other people, which speaks for
+itself, I find teaching a stimulating and enriching intellectual activity.
+Thinking about lessons, activities to engage students, and how to best sequence
+learning. What's more is teaching gets me learning subject matter as well as
+how to translate certain complexities for those you're teaching. This makes
+this field exciting and almost addicting.
 
-Young people that are entering new phases of their life need help to understand
-the way our world came to be in order for them to make it their own. The future
-needs educated citizens who believe in a sense of togetherness in order for
-them to successfully take up their positions as new leaders of the world. 
+Most importantly, teaching allows me to be on the ground helping people and
+learning with them. The society we live in today is tough and problematic;
+inequalities plague our society that privatizes profit but socializes costs.
+I believe these inequalities such as race, gender, and wealth, have not been this
+severe and pronounced for nearly 100 years. These issues are compounded by continue
+abuse to the natural environment of our world. 
 
-I want to teach because I want to be there to support young people in the
-changes of their lives and helped them actualize their dreams. I believe
-general education is the best way for young people to develop their minds and
-their ideas about the world. Through just keeping their minds challenged with
-fun and engaging school work, I hope to help my students develop a general
-intelligence that will help them develop the tools to decode society. I want to
-teach to help students understand themselves, their emotions, their passions,
-and their wants, as well as open their eyes to the society they will be a part
-of. The aim is for them to be able to internalize these two things (their wants
-and the world they were born into) so that they may be able to actualize all
-the change they want to see in the world. 
+These realities while unnerving, they also demand for action to address these issues. Teaching provides a way to
+confront these aspects of our society in an effective way. Fostering positive
+relationships with students and creating a meaningful educational community
+is one step in bringing down these exploitative
+systems that have been institutionalize over long periods of time. These
+systems will themselves be undone by generations of people looking to create a fairer and just world. 
+While the arc towards moral justice is long, and will only bend
+towards justice if we show the people of tomorrow how to learn and grow
+themselves, support others, and create change in their communities.

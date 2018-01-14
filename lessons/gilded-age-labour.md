@@ -1,5 +1,5 @@
 ---
-title: Gilded Age Labour LP
+title: Gilded Age Labour
 PC: pc-1
 description: US history
 tags: History

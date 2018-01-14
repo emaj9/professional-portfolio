@@ -8,7 +8,6 @@ h1, h2, h3, h4, h5, h6 {
 div#footer {
     font-size: 75%;
     border-top: 1px solid black;
-
 }
 
 div#footer > div {
@@ -57,7 +56,7 @@ div.btn-nav a:visited {
 }
 
 div.btn-nav a:active {
-    background-color:#ffffdf;
+    background-color:#e8e0ff;
     box-shadow: none;
 }
 
