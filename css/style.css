@@ -10,6 +10,19 @@ div#footer {
     border-top: 1px solid black;
 }
 
+div.page-header {
+    position: relative;
+    border-bottom: 1px solid black;
+}
+
+div.page-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
 div#footer > div {
     max-width: 8in;
     margin: auto;
@@ -29,6 +42,12 @@ h1#title {
     text-align: center;
 }
 
+h1#title > span {
+    background-color: hsla(360, 0%, 100%, 0.85);
+    box-shadow: 2px 2px #333;
+    padding: 0.2em;
+}
+
 h2#page-title {
     text-align: center;
 }
@@ -41,9 +60,9 @@ div#main-content {
 
 div.btn-nav a {
     text-align: center;
-    padding: 0.75em 1.208em;
-    background-color:#d8d0f2;
-    border-left: 0.5em solid #dc30e5;
+    padding: 0.60em 0.968em;
+    background-color:hsla(160, 0%, 100%, 0.75);
+    border-left: 0.5em solid #fff;
     box-shadow: 2px 2px #333;
     margin: 0.2em 1em;
     transition: box-shadow 0.1s linear;
@@ -64,8 +83,7 @@ div.btn-nav {
     display:flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 1px solid black;
-    padding-bottom: 1em;
+    padding-top: 1em;
 }
 .pc-list a{
     text-align: center;
