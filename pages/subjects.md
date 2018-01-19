@@ -1,12 +1,18 @@
 ---
 title: Teachable Subjects
 ---
-
 Here are links that will displays lesson I have made in the following subjects.
-
 <div class="subjects-list">
-  * [History](/tags/History.html)
-<!--  * [Geography](/tags/Geography.html) -->
-  * [Computer Science](/tags/Comp-Sci.html)
-<!-- * [Music](/tags/Music.html) -->
+  <a href="/history.html" />
+    <img src="/img/history.jpg">
+    <span class="button-text">History</span>
+  </a>
+  <a href="/comp-sci.html" />
+    <img src="/img/comp-sci.jpg">
+    <span class="button-text">Computer Science</span>
+  </a>
+  <a href="/music.html" />
+    <img src="/img/music.jpg">
+    <span class="button-text">Music</span>
+  </a>
 </div>

@@ -113,8 +113,7 @@ div.btn-nav {
 }
 .subjects-list a{
     text-align: center;
-    padding: 0.75em 1.208em;
-    background-color:#c2d2ed;
+    padding: auto;
     border-left: 0.5em solid #3872d1;
     box-shadow: 2px 2px #333;
     margin: 0.2em 1em;
@@ -133,6 +132,35 @@ div.btn-nav {
     margin: 0 0;
     padding: 0;
     list-style-type: none;
+}
+
+div.subjects-list a {
+    position: relative;
+    display: block;
+    border: black solid 1px;
+    height: 240px;
+}
+
+div.subjects-list {
+    display: flex;
+}
+
+div.subjects-list > p {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    min-width: 0;
+}
+
+div.subjects-list span.button-text { 
+    position:absolute; 
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: hsla(160, 0%, 100%, 0.7);
+    padding: 0.7em 0em;
+    font-size: 1.25em;
+    font-weight: 300;
 }
 
 .r-float, .l-float {
