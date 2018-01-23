@@ -19,4 +19,4 @@ Here are links that will displays lesson I have made in the following subjects.
   </a>
 </div>
 
-*photos for these buttons courtesy of https://unsplash.com/*
+*Photos for these buttons are courtesy of [https://unsplash.com/](https://unsplash.com/).*
