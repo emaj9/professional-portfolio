@@ -1,7 +1,9 @@
 ---
 title: Teachable Subjects
 ---
+
 Here are links that will displays lesson I have made in the following subjects.
+
 <div class="subjects-list">
   <a href="/history.html" />
     <img src="/img/history.jpg">
