@@ -7,4 +7,4 @@ class="lp">
   alt : <a href="/pdf/waveform-id-lp.pdf">Download the pdf here.</a>
 </object>
 The resources to this lesson can be found on [this
-page](https://www,emayhew.com/waveform-id.html).
+page](https://www.emayhew.com/waveform-id.html).
