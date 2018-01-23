@@ -22,10 +22,11 @@ other lesson plans are free to browse on the computing workshop website itself.
 class="lp">
   alt : <a href="/pdf/binary-lp.pdf">Download the pdf here.</a>
 </object>
-<object data="https://www.computing-workshop.com/pdf/1-slides.pdf" type="application/pdf"
-class="lp">
-  alt : <a href="https://www.computing-workshop.com/pdf/1-slides.pdf">Download the pdf here.</a>
-</object>
+
+The extra materials to this lesson (slides, worksheets, so on) are available
+for download in the "Materials" section of the lesson plan. For convenient
+viewing, the materials are displayed below.
+
 <object data="https://www.computing-workshop.com/pdf/1-ws-gate-review.pdf" type="application/pdf"
 class="lp">
   alt : <a href="https://www.computing-workshop.com/pdf/1-ws-gate-review.pdf">Download the pdf here.</a>
