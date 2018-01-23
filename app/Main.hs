@@ -97,8 +97,9 @@ main = hakyll $ do
     route idRoute
     compile copyFileCompiler
 
-
-
+  match "audio/*" $ do
+    route idRoute
+    compile copyFileCompiler
 
 linesInPages :: Context String
 linesInPages = field "n" f where
