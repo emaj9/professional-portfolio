@@ -20,7 +20,7 @@ other lesson plans are free to browse on the computing workshop website itself.
 
 <object data="/pdf/binary-lp.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/binary-lp.pdf">Download the pdf here.</a>
+ <a href="/pdf/binary-lp.pdf">Download the lesson plan pdf here.</a>
 </object>
 
 The extra materials to this lesson (slides, worksheets, so on) are available
@@ -29,13 +29,13 @@ viewing, the materials are displayed below.
 
 <object data="https://www.computing-workshop.com/pdf/1-ws-gate-review.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="https://www.computing-workshop.com/pdf/1-ws-gate-review.pdf">Download the pdf here.</a>
+ <a href="https://www.computing-workshop.com/pdf/1-ws-gate-review.pdf">Download the logic gate worksheet pdf here.</a>
 </object>
 <object data="https://www.computing-workshop.com/pdf/1-ws-circuit.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="https://www.computing-workshop.com/pdf/1-ws-circuit.pdf">Download the pdf here.</a>
+  <a href="https://www.computing-workshop.com/pdf/1-ws-circuit.pdf">Download the circuit worksheet pdf here.</a>
 </object>
 <object data="https://www.computing-workshop.com/pdf/1-ws-bb-reverse-engineering.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="https://www.computing-workshop.com/pdf/1-ws-bb-reverse-engineering.pdf">Download the pdf here.</a>
+  <a href="https://www.computing-workshop.com/pdf/1-ws-bb-reverse-engineering.pdf">Download the reverse engineering worksheet pdf here.</a>
 </object>

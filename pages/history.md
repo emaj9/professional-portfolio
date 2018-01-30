@@ -17,7 +17,7 @@ US History: Early Industrial Labour
 
 <object data="/lessons/pdf/child-labour-lp.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/lessons/pdf/child-labour-lp.pdf">Download the pdf here.</a>
+   <a href="/lessons/pdf/child-labour-lp.pdf">Download the lesson plan pdf here.</a>
 </object>
 
 The extra materials to this lesson (slides, worksheets, so on) are available
@@ -26,17 +26,18 @@ viewing, the materials are displayed below.
 
 <object data="/pdf/child-labour-slides.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/child-labour-lp.slides">Download the pdf here.</a>
+<a href="/pdf/child-labour-lp.slides">Download the slides pdf here.</a>
 </object>
 
 <object data="/pdf/child-labour-primary-sources.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/child-labour-primary-sources.pdf">Download the pdf here.</a>
+ <a href="/pdf/child-labour-primary-sources.pdf">Download the primary
+  source materials here.</a>
 </object>
 
 <object data="/pdf/child-labour-worksheet.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/child-labour-worksheet.pdf">Download the pdf here.</a>
+ <a href="/pdf/child-labour-worksheet.pdf">Download the worksheet pdf here.</a>
 </object>
 
 <div id="Can-Hist"></div>
@@ -45,7 +46,7 @@ Cnd History: Jacques Cartier's Voyages
 
 <object data="/lessons/pdf/jacques-cartier-lp.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/lessons/pdf/jacques-cartier-lp.pdf">Download the pdf here.</a>
+ <a href="/lessons/pdf/jacques-cartier-lp.pdf">Download the lesson plan pdf here.</a>
 </object>
 
 The extra materials to this lesson (slides, worksheets, so on) are available
@@ -54,10 +55,10 @@ viewing, the materials are displayed below.
 
 <object data="/pdf/jacques-cartier-slides.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/jacques-cartier-slides.pdf">Download the pdf here.</a>
+ <a href="/pdf/jacques-cartier-slides.pdf">Download the slides pdf here.</a>
 </object>
 
 <object data="/pdf/jacques-cartier-worksheet.pdf" type="application/pdf"
 class="lp">
-  alt : <a href="/pdf/jacques-cartier-worksheet.pdf">Download the pdf here.</a>
+  alt : <a href="/pdf/jacques-cartier-worksheet.pdf">Download the worksheet pdf here.</a>
 </object>
