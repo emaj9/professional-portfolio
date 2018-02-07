@@ -118,7 +118,6 @@ div.btn-nav {
 }
 .subjects-list a{
     text-align: center;
-    padding: auto;
     border-left: 0.5em solid #3872d1;
     box-shadow: 2px 2px #333;
     margin: 0.2em 1em;
@@ -148,7 +147,8 @@ div.subjects-list a {
     position: relative;
     display: block;
     border: black solid 1px;
-    height: 240px;
+    height: 15em;
+    width: 33.3%;
 }
 
 div.subjects-list {
