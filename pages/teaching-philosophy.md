@@ -9,6 +9,5 @@ learn. In my teaching, I aim to foster a safe environment for students to develo
 means claim to be the only source of knowledge. My preference is to learn along side my students, together.
 
 I believe everyone has the right to education and am not blinded to the harm the education can do. Although education is
-seen as the "great equalizer" it has the ability to punish the minority through culutral hegemony. My teaching aims to
-eliminate this by fostering critical thinking over memorization. Furthermore, as a teacher I hold myself to a higher
-standard to ensure all my students are considered and cared for.
+seen as the "great equalizer" it has the ability to punish the minority for not thinking like the majority. Consequently, my teaching aims to
+eliminate this by fostering critical thinking over memorization and respecting and appreciating differences in the classroom.
