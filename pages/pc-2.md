@@ -6,13 +6,9 @@ writing, using correct grammar, in various contexts related to teaching.*
 
 <iframe class="lp" src="/pdf/page-2.pdf"></iframe>
 
-####Evidence of development
+#### Evidence of development
 
-My development of this competency can be seen in this project description for
-a geography project which asks students to make a map:
+My development of this competency can be seen in this lesson on colonization. As you can see, the text in my slides are
+short and to the point, helping students stay on focus.
 
-<iframe class="lp" src="/pdf/map-project.pdf"></iframe>
-
-In this project description, you can see my instructions clear and succinct for
-my students. Clear instructions helped my students succeed in guiding their
-projects and work.
+<iframe class="lp" src="/pdf/french-slides.pdf"></iframe>

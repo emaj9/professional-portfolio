@@ -6,17 +6,9 @@ learning disabilities, social maladjustments, or hanicaps.*
 
 <iframe class="lp" src="/pdf/page-7.pdf"></iframe>
 
-####Evidence of development
+#### Evidence of development
 
-My development of this competency can be seen in the differentiation of the
-same assessment:
+The choice board I used for my secondary three history class exemplifies how I differentiated my instruction and
+assessment to allow for varied student abilities.
 
-<iframe class="lp" src="pdf/remedial-geo-test.pdf"></iframe>
-<iframe class="lp" src="pdf/map-test.pdf"></iframe>
-
-Through collaboration with the resource teacher at my stage, I created the
-following differentiated test for one of my students with an IEP in my class.
-Given the high percentage of special needs students at my placement, I was
-often working on differentiating my class material to meet the needs of all my
-students. The difference between the test showcases how I collaborated with the
-resource teacher to assess students with learning disabilities fairly. 
+<iframe class="lp" src="pdf/project-ws.pdf"></iframe>

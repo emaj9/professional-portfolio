@@ -7,15 +7,10 @@ targeted in the programs of study.*
 
 <iframe class="lp" src="/pdf/page-3.pdf"></iframe>
 
-####Evidence of development
+#### Evidence of development
 
-My development of this competency can be seen on these lesson slides for one of
-my geography classes:
+This worksheet demonstrates how I adapted my teaching to fit my students current levels, then moved to more critical
+thinking questions. The first few questions of this worksheet are fairly straight forward (identify, define, so on) then
+lead to more personalized and critical thinking questions.
 
-<iframe class="lp" src="/pdf/physical-maps-teacher-slides.pdf"></iframe>
-
-In my students work, I try to make it personal to them. As my class had a lot
-of gamers and artists, I structure my lessons around allowing these students to
-relate personally with the material. This is seen in asking my students to draw
-certain maps or use images from Minecraft for students to relate to.
-
+<iframe class="lp" src="/pdf/rs-ws.pdf"></iframe>

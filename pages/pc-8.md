@@ -9,11 +9,7 @@ professional development purposes*
 
 ####Evidence of development
 
-My development of this competency can be seen in this whole website! Stage made
-me realize how often I (and my colleagues) rely on technology so heavily for
-teaching. It bothered me to know I rely so much on something but know so little
-about it. Fortunately, an assignment for my seminar course asked me to create
-an online portfoilo. I saw this as an opportunity to learn more about
-technology and that's exactly what happened. Planning and creating this website
-has been **a lot** of work, but now I understand so much more about computers.
-I am enticed to learn more about teaching computer science now too. 
+Here is an example worksheet I would use with students that required students work with ICTs to complete their work.
+
+
+<iframe class="lp" src="/pdf/ict-ws.pdf"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: PC 3
+title: PC 4
 ---
 *to pilot teaching/learning situations that are appropriate to the students
 concerned and the subject content with a view to developing the competencies
@@ -7,17 +7,10 @@ targeted in the programs of study.*
 
 <iframe class="lp" src="/pdf/page-4.pdf"></iframe>
 
-####Evidence of development
+#### Evidence of development
 
-My development of this competency can be seen on these lesson slides for one of
-my geography classes:
+This worksheet had students asking me for the "right answer" very often. In particular, the last
+question asking what it means to be Cree to the student, left students unsure where they can find the answer in the
+textbook or class slides. I helped the students articulate their idea of Cree identity through conversation.
 
-<iframe class="lp" src="/pdf/physical-maps-teacher-slides.pdf"></iframe>
-
-Similar to my evidence from the PC 4, these slides demonstrate how I break down
-my lesson content into smaller sized pieces for students to engage with.
-Knowing that my students love socializing and have a hard time staying focused,
-I structured my lesson so they were often broken up into small activities and
-questions for students to solidify their learning through interacting with the
-material. Students responded well to the instructions on the slides and enjoyed
-being able to discuss their thoughts with other students.
+<iframe class="lp" src="/pdf/rs-ws.pdf"></iframe>

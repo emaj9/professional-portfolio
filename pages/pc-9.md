@@ -6,16 +6,8 @@ students in pursuing the educational objectives of the school*
 
 <iframe class="lp" src="/pdf/page-9.pdf"></iframe>
 
-####Evidence of development
+#### Evidence of development
 
-My development of this competency can be seen in the coding club
-extra curriculur activity I hosted at my stage. You can see the slide about my coding club that was on school
-announcements:
+Here is the worksheet I gave my students going to listen to the local elder discuss Cree history.
 
-<iframe class="lp" src="/pdf/coding-club-slide.pdf"></iframe>
-
-This club required that I cooperate with other staff to allow for my club to
-exist. This meant communicating with the office to see the availabilities of a
-certain and room and a computer cart, along with the cooperation of my
-cooperating teachers. I collaborated with other tech-related extra curricular
-activities related to coding as well.
+<iframe class="lp" src="/pdf/speaker-ws.pdf"></iframe>
