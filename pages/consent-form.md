@@ -1,5 +1,5 @@
 ---
-title: consent form
+title: Consent Form
 ---
 
 <object data="/pdf/participant-consent-form.pdf" type="application/pdf"
