@@ -6,3 +6,5 @@ title: Consent Form
 class="lp">
  <a href="/pdf/participant-consent-form.pdf">Download the consent form pdf here.</a>
 </object>
+
+<a href="/pdf/participant-consent-form.docx"> Download the form as a .docx file here. </a>
