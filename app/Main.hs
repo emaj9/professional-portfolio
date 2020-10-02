@@ -10,7 +10,6 @@ import Data.Monoid ( (<>) )
 import qualified Data.HashMap.Lazy as M
 import Data.Aeson ( Value(..) )
 
---hakyll :: Rules () -> IO ()
 
 ctx = defaultContext
 applyDefaultTemplate = loadAndApplyTemplate "templates/default.html"
@@ -23,38 +22,34 @@ getPCs identifier = do
 
 main :: IO ()
 main = hakyll $ do
-  tags <- buildTags "lessons/*" (fromCapture "tags/*.html")
-  pc <- buildTagsWith getPCs "lessons/*" (fromCapture "pc/*.html")
 
-  tagsRules tags $ \tag pattern -> do
-    let title = "Lessons about " ++ tag
-    route idRoute
-    compile $ do
-      lessons <- loadAll pattern
-      let ctx' =
-            constField "title" title <>
-            listField "lessons" ctx (pure lessons) <>
-            ctx
+  match "templates/*" $ compile templateCompiler
 
-      makeItem ""
-        >>= loadAndApplyTemplate "templates/tag.html" ctx'
-        >>= applyDefaultTemplate ctx'
-        >>= relativizeUrls
+  -- PAGES --------------------
+  match "pages/music-blog.md" $ do
+      route $ constRoute "music-blog.html"
+      compile $ do
+        posts <- recentFirst =<< loadAll "posts/*"
+        let mostRecent = head posts
 
-  tagsRules pc $ \pc pattern -> do
-    let title = "Lessons using " ++ pcTitle pc
-    route idRoute
-    compile $ do
-      lessons <- loadAll pattern
-      let ctx' =
-            constField "title" title <>
-            listField "lessons" ctx (pure lessons) <>
-            ctx
+        let indexCtx =
+                listField "posts" postCtx (return posts) <>
+                ctx
 
-      makeItem ""
-        >>= loadAndApplyTemplate "templates/tag.html" ctx'
-        >>= applyDefaultTemplate ctx'
-        >>= relativizeUrls
+        getResourceBody
+            >>= applyAsTemplate indexCtx
+            >>= loadAndApplyTemplate "templates/default.html" indexCtx
+            >>= relativizeUrls
+
+  match "pages/*" $ do
+  -- match :: Pattern -> Rules () -> Rules ()
+    route $ customRoute myRoute
+    -- route :: route -> Rules ()
+    -- customRoute:: (indentifer -> Filepath) -> route
+    compile $ pandocCompiler
+    -- compile :: Compiler () -> Rules ()
+      >>= loadAndApplyTemplate "templates/default.html" (defaultContext <> linesInPages)
+      >>= relativizeUrls
 
   match "pages/subjects.md" $ do
     route $ customRoute myRoute
@@ -69,18 +64,17 @@ main = hakyll $ do
     compile $ pandocCompiler
       >>= applyDefaultTemplate defaultContext
 
-  match "pages/*" $ do
-  -- match :: Pattern -> Rules () -> Rules ()
-    route $ customRoute myRoute
-    -- route :: route -> Rules ()
-    -- customRoute:: (indentifer -> Filepath) -> route
-    compile $ pandocCompiler
-    -- compile :: Compiler () -> Rules ()
-      >>= loadAndApplyTemplate "templates/default.html" (defaultContext <> linesInPages)
+  -- POSTS ---------------------------
+
+  match "posts/*" $ do
+    route $ setExtension "html"
+    compile $ pandocMathCompiler
+      >>= loadAndApplyTemplate "templates/post.html"  postCtx
+      >>= saveSnapshot "content"
+      >>= loadAndApplyTemplate "templates/default.html" postCtx
       >>= relativizeUrls
 
-  match "templates/*" $ compile templateCompiler
-
+  -- STATIC CONTENT -------------------
   match "img/*" $ do
     route idRoute
     compile copyFileCompiler
@@ -113,3 +107,16 @@ myRoute id
   | otherwise = drop 6 $ dropExtension (toFilePath id) ++ ".html"
 
 pcTitle x = "Professional Competency " ++ drop 3 x
+
+postCtx :: Context String
+postCtx =
+  dateField "date" "%B %e, %Y" <>
+  ctx
+
+pandocMathCompiler :: Compiler (Item String)
+pandocMathCompiler
+  = pandocCompilerWith readerOptions writerOptions where
+    readerOptions = defaultHakyllReaderOptions
+    writerOptions = defaultHakyllWriterOptions
+      { writerHTMLMathMethod = MathJax ""
+      }
