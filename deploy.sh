@@ -2,6 +2,4 @@
 
 set -e
 
-stack exec professional-portfolio-exe rebuild -- -v
-rsync _site/ /var/www/html -r
-
+rsync _site/ emaj9@emayhew.com:/var/www/html -r
